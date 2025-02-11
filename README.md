@@ -1,5 +1,5 @@
 # Canada_Refugees_Analysis
-## OVERVIEWon the period 
+## OVERVIEW
 This project analyzes refugee and asylum trends in Canada, focusing on the period from 2012 to 2022
 ### Key Research Questions  
 - From which countries has Canada admitted the highest number of refugees?  
