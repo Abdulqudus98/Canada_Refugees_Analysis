@@ -1,4 +1,4 @@
-# Canada_Refugees_Analysis
+# Canada_Refugee_Resettlement_Analysis
 ## OVERVIEW
 This project analyzes refugee and asylum trends in Canada, focusing on the period from 2012 to 2022
 ### Key Research Questions  
